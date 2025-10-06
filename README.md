@@ -24,12 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-"""
-<!DOCTYPE html>
-<html> 
-<head>
-    <title>Timetable</title>
-</head>            
+            
 <title>Google <div class="Timetable"></div></title>
     <body> 
      <center> 
@@ -129,9 +124,10 @@ Execute the program using runserver command.
          </table>   
     </body>
 </html>
-"""
+
 
 ## OUTPUT
+<img width="1919" height="1079" alt="Screenshot 2025-10-06 165649" src="https://github.com/user-attachments/assets/c9b13847-8ae6-4cbf-ad7e-e0ec7f239eaf" />
 
 
 ## RESULT
